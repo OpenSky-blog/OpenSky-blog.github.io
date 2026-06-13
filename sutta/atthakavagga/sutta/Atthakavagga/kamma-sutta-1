@@ -615,6 +615,29 @@ permalink: /sutta/atthakavagga/kama-sutta/1/
       <p>All main verbs here are in 3rd person singular: <em class="pali">samijjhati, hoti, icchati</em>.</p>
     </div>
 
-    <div class="grammar-card">
+     <div class="grammar-card">
       <p class="term">Indeclinable Particles</p>
-      <p>Indeclinables never change form. <em class="pali">Ce</em> (if) introduces a condition; <em class="pali">addhā</em
+      <p>Indeclinables never change form. <em class="pali">Ce</em> (if) introduces a condition; <em class="pali">addhā</em> (surely) asserts certainty.</p>
+    </div>
+
+  </div>
+
+  <!-- ══════════════════════════════════════════════ -->
+  <h2>A Note on <em class="pali">kāma</em></h2>
+
+  <p>The word appears twice in the first line: <em class="pali">kāmaṃ kāmayamānassa</em>. <em class="pali">Kāma</em> can mean the object of desire (a pleasure, a sense experience) or the mental act of desiring itself. The line fuses both: one who desires desire. The root √<em>kam</em> is ancient and shared across Indo-European languages.</p>
+
+  <!-- ══════════════════════════════════════════════ -->
+  <!-- Bottom part navigation -->
+  <div class="bottom-nav">
+    <span></span>
+    <a href="/sutta/atthakavagga/kama-sutta/2/">Part II →</a>
+  </div>
+
+  <footer>
+    <a href="/sutta/atthakavagga/">← Back to Aṭṭhakavagga</a>
+  </footer>
+
+</div>
+</body>
+</html>
