@@ -10,6 +10,6 @@ permalink: /sutta/atthakavagga/
 Pāli study notes.
 | # | Sutta | Notes |
 |---|-------|-------|
-| 1 | [Kāmasutta](./1-kama-sutta/) | Sensual pleasures |
-| 2 | [Guhaṭṭhaka](./2-guhatthaka/) | The cave |
+| 1 | [Kāmasutta](./kama-sutta-1/) | Sensual pleasures |
+| 2 | [Guhaṭṭhaka](./guhatthaka-2/) | The cave |
 ...
