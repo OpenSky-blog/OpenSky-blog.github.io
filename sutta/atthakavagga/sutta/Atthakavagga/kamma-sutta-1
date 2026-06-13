@@ -1,7 +1,7 @@
 ---
 layout: none
 title: "Kāmasutta · Part I of VIII"
-permalink: /sutta/atthakavagga/kama-sutta/1/
+permalink: /sutta/atthakavagga/kama-sutta-1/
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -414,7 +414,7 @@ permalink: /sutta/atthakavagga/kama-sutta/1/
     <!-- Part navigation dots -->
     <div class="part-nav">
       <span class="part-nav-label">Parts</span>
-      <a class="part-pip current" href="/sutta/atthakavagga/kama-sutta/1/" title="Part I">I</a>
+      <a class="part-pip current" href="/sutta/atthakavagga/kama-sutta-1/" title="Part I">I</a>
       <span class="part-pip forthcoming" title="Part II — forthcoming">II</span>
       <span class="part-pip forthcoming" title="Part III — forthcoming">III</span>
       <span class="part-pip forthcoming" title="Part IV — forthcoming">IV</span>
@@ -631,7 +631,7 @@ permalink: /sutta/atthakavagga/kama-sutta/1/
   <!-- Bottom part navigation -->
   <div class="bottom-nav">
     <span></span>
-    <a href="/sutta/atthakavagga/kama-sutta/2/">Part II →</a>
+    <a href="/sutta/atthakavagga/kama-sutta-2/">Part II →</a>
   </div>
 
   <footer>
